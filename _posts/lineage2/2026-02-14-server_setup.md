@@ -97,10 +97,12 @@ tags: [lineage 2]
 Можно скачать клиент тут:
 
 **Client (password L2jMobius):**
-🔗 [https://drive.google.com](https://drive.google.com/u/2/uc?id=1zCGzxWgkxASntc_X8L4YCEqk9hDc5VBN&export=download)
+
+🔗 [https://drive.google.com](https://drive.google.com/u/2/uc?id=1zCGzxWgkxASntc_X8L4YCEqk9hDc5VBN&export=download) ## БИТАЯ ССЫЛКА
 
 **System:**
-🔗 [https://mega.nz](https://mega.nz/#!t49wiKgZ!PzVAcxcg2o8gRkAiMjH7CUO6lKrBG27npg2JPL1uEq8)
+
+🔗 [https://mega.nz](https://mega.nz/#!t49wiKgZ!PzVAcxcg2o8gRkAiMjH7CUO6lKrBG27npg2JPL1uEq8) ## БИТАЯ ССЫЛКА
 
 Скачали - зашли, поиграли.
 
