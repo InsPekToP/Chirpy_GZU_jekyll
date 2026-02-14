@@ -1,38 +1,17 @@
 ---
 title: Установка сервера с нуля
-date: 2026-02-01 00:00:00 +0200
+date: 2026-02-01 12:01:00 +0200
 categories: [Разделы, Lineage 2]
-tags: [Lineage 2]     # TAG names should always be lowercase
+tags: [lineage 2]     
 ---
 
 # ЗАПУСК СЕРВЕРА LINEAGE 2
 
+{% include embed/youtube.html id='dpMpkuerp1c' %}
+
 Не спешим, читаем этот гайд, смотрим видео, всё по 2 раза. На третий повторяем.
 
 Для самого первого запуска без навыков очень поможет видео от Mobius по запуску сервера. Когда начнём понимать, можно пробовать другие сборки, но лично мне понравилось Mobius, ведь они дают исходный код сервера, а не только компиляцию, и код можно редактировать под свои обновления, всё легко и просто(почти).
-
-
-
-## Video From Youtube
-
-{% include embed/youtube.html id='dpMpkuerp1c' %}
-
-## Video From Host
-
-
-<video width="720" height="405" controls>
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/video/grok_NewYear.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-### Image Normal
-
-![Desktop View]({{ site.url }}{{ site.baseurl }}/assets/img/posts/20260201/image1.png){: width="972" height="589"}
-
-
-
-
 
 
 🔗 [https://www.l2jmobius.org/](https://www.l2jmobius.org/)
